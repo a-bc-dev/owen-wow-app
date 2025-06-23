@@ -4,7 +4,7 @@ This React application fetches and displays random scenes from the [Owen Wilson 
 
 ## Live Demo
 
-You can check out the live version of the project here: [Owen Wilson's WoW - Live Demo](https://beta.adalab.es/modulo-3-evaluacion-final-biancadragan/).
+You can check out the live version of the project here: [Owen Wilson's WoW - Live Demo](https://a-bc-dev.github.io/owen-wow-app/).
 
 ## Table of Contents
 
